@@ -2,9 +2,9 @@
     "author": "barnabasnomo@gmail.com",
     "dependencies": {},
     "keywords": [],
-    "name": "basicjs",
+    "name": "analog-watchface",
     "pebble": {
-        "displayName": "basicJs by Barnabas Nomo",
+        "displayName": "Analog WatchFace",
         "enableMultiJS": true,
         "messageKeys": [],
         "projectType": "rocky",
@@ -12,13 +12,9 @@
             "media": []
         },
         "sdkVersion": "3",
-        "targetPlatforms": [
-            "basalt",
-            "chalk"
-        ],
-        "uuid": "6fc39c38-ed09-4a2c-9b40-468b7907aef7",
+        "uuid": "712b38c5-15de-49f4-8a9f-9bff299782eb",
         "watchapp": {
-            "watchface": true
+            "watchface": false
         }
     },
     "version": "1.0.0"
