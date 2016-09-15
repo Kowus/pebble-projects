@@ -12,6 +12,11 @@
             "media": []
         },
         "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk",
+            "diorite"
+        ],
         "uuid": "712b38c5-15de-49f4-8a9f-9bff299782eb",
         "watchapp": {
             "watchface": false
