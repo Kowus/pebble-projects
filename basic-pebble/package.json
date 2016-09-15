@@ -1,28 +1,25 @@
 {
-  "name": "basic-pebble",
-  "author": "MakeAwesomeHappen",
-  "version": "1.0.0",
-  "keywords": ["pebble-app"],
-  "private": true,
-  "dependencies": {},
-  "pebble": {
-    "displayName": "basic-pebble",
-    "uuid": "473a6b52-d5db-45ee-84a1-3616d47015f9",
-    "sdkVersion": "3",
-    "enableMultiJS": true,
-    "targetPlatforms": [
-      "aplite",
-      "basalt",
-      "chalk"
-    ],
-    "watchapp": {
-      "watchface": false
+    "author": "barnabasnomo@gmail.com",
+    "dependencies": {},
+    "keywords": [],
+    "name": "basicjs",
+    "pebble": {
+        "displayName": "basicJs by Barnabas Nomo",
+        "enableMultiJS": true,
+        "messageKeys": [],
+        "projectType": "rocky",
+        "resources": {
+            "media": []
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "basalt",
+            "chalk"
+        ],
+        "uuid": "6fc39c38-ed09-4a2c-9b40-468b7907aef7",
+        "watchapp": {
+            "watchface": true
+        }
     },
-    "messageKeys": [
-      "dummy"
-    ],
-    "resources": {
-      "media": []
-    }
-  }
+    "version": "1.0.0"
 }
